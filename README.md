@@ -55,10 +55,10 @@ A terminal-based calculator performing both **basic** and **scientific** operati
 
 <p align="center">
   💌 <b>Let’s Connect and Build Something Amazing!</b> <br><br>
-  <a href="mailto:ashishgupta251@example.com"><img src="https://img.shields.io/badge/Email%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:agashish2517@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/AshishGupta251"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="(https://www.linkedin.com/in/ashishgupta251)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="(https://x.com/agashish2517)"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
