@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 <b>Engineering Student | Tech Explorer | Future Innovator</b> <br>
-  💻 Passionate about <b>Web Development, Cybersecurity, and AI</b> <br>
+  💻 Passionate about <b>Web Development, Cybersecurity</b> <br>
   🌱 Currently pursuing <b>B.Tech in Computer Science & Engineering</b> at <b>Poornima Institute of Engineering & Technology</b>  
 </p>
 
