@@ -19,12 +19,12 @@
 
 ### 💼 Major Projects  
 
-#### 🪙 [NFT Marketplace Website](#)  
+#### 🪙 [NFT Marketplace Website](https://ashishgupta251.github.io/NFT-Based-Virtual-Real-Estate--Soroban/)  
 A modern and fully responsive NFT marketplace where users can explore, buy, and sell digital assets.  
 Built using **HTML, CSS, and JavaScript** — featuring smooth animations, interactive UI, and wallet-inspired design.  
 > 💡 Focused on sleek design, user experience, and blockchain-inspired themes.
 
-#### 🗳️ [Web-Based Voter Registration System](#)  
+#### 🗳️ [Web-Based Voter Registration System](https://ashishgupta251.github.io/Web-Based-Voter-Registration-System/)  
 A secure and efficient web app designed to register and manage voters online.  
 Developed with **HTML, CSS, and JavaScript** featuring form validation and structured data handling.  
 
