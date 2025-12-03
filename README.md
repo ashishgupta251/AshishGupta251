@@ -42,11 +42,18 @@ A terminal-based calculator performing both **basic** and **scientific** operati
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats & Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshishGupta251&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta251&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishgupta251&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgupta251&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta251&theme=tokyonight" alt="streaks" />
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishgupta251&theme=tokyonight" alt="trophies" />
 </p>
 
 ---
@@ -56,16 +63,4 @@ A terminal-based calculator performing both **basic** and **scientific** operati
 <p align="center">
   💌 <b>Let’s Connect and Build Something Amazing!</b> <br><br>
   <a href="mailto:agashish2517@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/AshishGupta251"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ashishgupta251"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/agashish2517"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
----
-
-### ⚡ Fun Fact  
-> I believe innovation starts with curiosity — and a bit of caffeine ☕  
-
----
-
-⭐ **Explore my repositories and projects — contributions and feedback are always welcome!**
+  <a hr
