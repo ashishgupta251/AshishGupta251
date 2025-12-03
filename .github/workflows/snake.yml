@@ -1,0 +1,47 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ashishgupta251
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        run: |
+          # Git identity
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          # Create or switch to output branch
+          git checkout -B output
+
+          # Create output directory if missing
+          mkdir -p output
+
+          # Copy generated SVGs
+          cp dist/snake.svg output/github-contribution-grid-snake.svg
+          cp dist/snake-dark.svg output/github-contribution-grid-snake-dark.svg
+
+          # Add and commit
+          git add output/
+          git commit -m "Update snake animation" || echo "No changes to commit"
+
+          # Force push to output branch
+          git push -f origin output
