@@ -75,7 +75,6 @@ Terminal-based calculator with:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashishgupta251/ashishgupta251/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
 ---
 
 ## 📬 Connect With Me  
