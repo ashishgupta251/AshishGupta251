@@ -37,10 +37,43 @@ A secure voter registration platform featuring:
 
 ---
 
-## 🧰 Tech Stack  
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode" />
+
+
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+  </a>
+
 </p>
 
 ---
