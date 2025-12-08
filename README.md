@@ -37,15 +37,6 @@ A secure voter registration platform featuring:
 
 ---
 
-### ⚙ **Scientific Calculator in C**  
-Terminal-based calculator with:  
-✔ Basic operations  
-✔ Trigonometry  
-✔ Power & Logarithms  
-> Strengthening C fundamentals.
-
----
-
 ## 🧰 Tech Stack  
 
 <p align="center">
