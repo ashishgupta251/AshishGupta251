@@ -81,12 +81,11 @@ A secure voter registration platform featuring:
 ## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishgupta251&show_icons=true&theme=tokyonight" height="155">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgupta251&layout=compact&theme=tokyonight" height="155">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishgupta251&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishgupta251&theme=tokyonight&margin-w=10" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishgupta251&layout=compact&theme=tokyonight" />
 </p>
 
 ---
