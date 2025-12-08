@@ -40,7 +40,7 @@ A secure voter registration platform featuring:
 ## 🧰 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,linux,git,github,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,git,github,vscode" />
 </p>
 
 ---
