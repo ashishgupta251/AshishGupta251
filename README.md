@@ -1,106 +1,90 @@
-<h1 align="center">✨ Hello, I'm <b>Ashish Gupta</b> 👋</h1>
+<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
+
+<h3 align="center">B.Tech CSE Student • Web Developer • Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=30A3DC&center=true&vCenter=true&width=550&lines=Engineering+Student;Web+Developer;Cybersecurity+Learner;Tech+Explorer+%7C+Innovator;Always+learning+something+new!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=30A3DC&center=true&vCenter=true&width=650&lines=Web+Developer;Cybersecurity+Learner;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🚀 About Me  
-I am a passionate **Computer Science Engineering student** who loves exploring technology, building digital products, and understanding how things work at a deeper level.  
-Currently diving into:  
-- 💻 **Web Development (Frontend + UI/UX)**  
-- 🔐 **Cybersecurity basics & ethical hacking**  
-- ⚙️ **C / C++ with Data Structures & Algorithms**  
-- 🤖 Tech tools, open-source, and productivity systems  
+## 🚀 About Me
 
-Committed to becoming a **creative, skilled, and future-ready engineer**.
+* 🎓 B.Tech Computer Science & Engineering @ PIET
+* 💻 Passionate about Web Development and Problem Solving
+* 🔐 Exploring Cybersecurity and Ethical Hacking
+* ⚙️ Learning C/C++, DSA and Modern Development Tools
+* 🚀 Building projects that solve real-world problems
 
 ---
 
-## 🏗 Major Projects  
+## ✈️ Featured Project
 
-### 🪙 **NFT Marketplace Website**  
-🔗 Live: **https://ashishgupta251.github.io/NFT-Based-Virtual-Real-Estate--Soroban/**  
-A modern NFT marketplace UI built with:  
-**HTML + CSS + JavaScript** | Interactive UI | Smooth Animations | Clean Layout  
-> Designed with a blockchain-inspired futuristic look.
+### ATC Skill & Proficiency Management System
+
+A web-based platform designed to digitize Air Traffic Control training assessments, proficiency checks, and performance tracking.
+
+**Key Features**
+
+* Skill Assessment Forms (16–23)
+* Proficiency Check Forms (27–34)
+* Dashboard & Progress Monitoring
+* Automatic Calculations
+* Multi-Unit ATC Support
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-### 🗳 **Web-Based Voter Registration System**  
-🔗 Live: **https://ashishgupta251.github.io/Web-Based-Voter-Registration-System/**  
-A secure voter registration platform featuring:  
-✔ Clean UI  
-✔ Validation system  
-✔ Organized data structure  
+## 🏗 Other Projects
+
+### 🪙 NFT Marketplace Website
+
+🔗 https://ashishgupta251.github.io/NFT-Based-Virtual-Real-Estate--Soroban/
+
+Modern NFT marketplace UI with responsive design and interactive components.
+
+### 🗳 Web-Based Voter Registration System
+
+🔗 https://ashishgupta251.github.io/Web-Based-Voter-Registration-System/
+
+Secure voter registration platform with validation system and structured workflow.
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="center">
-
-
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" width="48" height="48"/>
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Overview  
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishgupta251&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishgupta251&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashishgupta251&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashishgupta251&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📬 Connect With Me  
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:agashish2517@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
-  <a href="https://www.linkedin.com/in/ashishgupta251"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
-  <a href="https://x.com/agashish2517"><img src="https://skillicons.dev/icons?i=twitter" width="40"></a>
+  <a href="mailto:agashish2517@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45">
+  </a>
+  <a href="https://www.linkedin.com/in/ashishgupta251">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  </a>
+  <a href="https://x.com/agashish2517">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45">
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-> Great things start with curiosity — and a good cup of coffee ☕✨
-
----
-
-<h3 align="center">⭐ If you like my projects, consider giving them a star!</h3>
-<h4 align="center">🚀 Let's build something awesome together!</h4>
+<p align="center">
+⭐ Building Projects • Learning Continuously • Growing Every Day
+</p>
