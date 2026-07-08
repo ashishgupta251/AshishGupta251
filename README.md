@@ -31,12 +31,6 @@ Outside of development, I regularly practice **Data Structures & Algorithms**, e
 - 💻 Data Structures & Algorithms
 - ⚡ Building scalable web applications
 
-- 🌐 Backend Development (Node.js, Express.js & MongoDB)
-- 💻 Data Structures & Algorithms in C++
-- 🔐 Cybersecurity Fundamentals
-- ⚙️ Git & GitHub Best Practices
-- ☁️ Modern Web Development
-
 ---
 
 # 🚀 Featured Projects
