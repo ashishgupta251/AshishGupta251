@@ -75,7 +75,7 @@ A web-based platform developed to digitize <b>Air Traffic Control</b> skill asse
 <img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge">
 </a>
 
-<a href="https://github.com/ashishgupta251/ATC-Skill-Proficiency-Management-System">
+<a href="https://github.com/ashishgupta251/ATC-Skill-Proficiency-Assessment-Performa">
 <img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge&logo=github">
 </a>
 
