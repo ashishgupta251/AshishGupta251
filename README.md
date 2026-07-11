@@ -123,7 +123,7 @@ A decentralized <b>NFT-based Virtual Real Estate</b> smart contract built on the
 <h2 align="center">🗳️ Web-Based Voter Registration System</h2>
 
 <p align="center">
-<img src="assets/voter-cover.png" width="70%">
+<img src="assets/voter-cover.png" width="50%">
 </p>
 
 <p align="center">
