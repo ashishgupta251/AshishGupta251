@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Ashish Gupta Banner"/>
-
 # Hi 👋, I'm Ashish Gupta
 
 ### Computer Science Engineering Student • Web Developer • Cybersecurity Learner
