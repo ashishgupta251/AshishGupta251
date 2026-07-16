@@ -238,7 +238,6 @@ A responsive voter registration platform inspired by the Election Commission por
 <p>
 
 <img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=supabase" />
 
 </p>
@@ -251,7 +250,6 @@ A responsive voter registration platform inspired by the Election Commission por
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=postman" />
 <img src="https://skillicons.dev/icons?i=vercel" />
 <img src="https://skillicons.dev/icons?i=render" />
 
