@@ -66,7 +66,7 @@ An interactive developer portfolio built with a custom <b>terminal-inspired inte
 <img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge">
 </a>
 
-<a href="https://github.com/ashishgupta251">
+<a href="https://github.com/ashishgupta251/Portfolio-Website">
 <img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge&logo=github">
 </a>
 
