@@ -2,35 +2,32 @@
 
 # Hi 👋, I'm Ashish Gupta
 
-### Computer Science Engineering Student • Full-Stack Web Developer • Cybersecurity Learner
+### Computer Science Engineering Student • Web Developer • Cybersecurity Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=3BA4F2&center=true&vCenter=true&width=700&lines=Building+Scalable+Full-Stack+Applications;Passionate+About+Web+Development;Always+Learning+Something+New;Exploring+Cybersecurity+%26+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1200&color=3BA4F2&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;Always+Learning+Something+New;Passionate+About+Web+Development;Exploring+Cybersecurity" alt="Typing SVG"/>
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a **Third-Year Computer Science Engineering student** at **Poornima Institute of Engineering & Technology (PIET), Jaipur**, passionate about building scalable, real-world software solutions.
+I'm a **Third-Year Computer Science Engineering student** at **PIET, Jaipur**, passionate about building software that solves real-world problems.
 
-I enjoy transforming ideas into production-ready applications through clean architecture, responsive interfaces, and efficient backend systems.
+From developing an **ATC Skill & Proficiency Management System** to creating full-stack web applications, I enjoy turning ideas into practical solutions while continuously learning new technologies.
 
-Recently, I built **AeroPulse Grievance Management System**, a complete full-stack web application using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**, strengthening my understanding of backend development, REST APIs, database integration, deployment, and project architecture.
-
-Apart from full-stack development, I continuously improve my **Data Structures & Algorithms**, explore **Cybersecurity**, and enjoy learning modern software engineering practices.
+Outside of development, I regularly practice **Data Structures & Algorithms**, explore **Cybersecurity**, and improve my development workflow through hands-on projects.
 
 ---
 
-# 🚀 Current Focus
+## 🌱 ## 🚀 What I'm Exploring
 
-- 🌐 Building Full-Stack Applications using **Node.js**, **Express.js**, **MongoDB** & **Supabase**
-- 🔐 Learning Backend Architecture & REST API Design
-- 💻 Solving Data Structures & Algorithms
-- 🐧 Exploring Linux & Cybersecurity
-- 🚀 Building production-ready software projects
+* 🌐 Full-Stack Development (Node.js, Express.js & MongoDB)
+* 🔐 Cybersecurity & Linux
+* 💻 Data Structures & Algorithms
+* ⚡ Building scalable web applications
 
 ---
 
@@ -44,6 +41,41 @@ Apart from full-stack development, I continuously improve my **Data Structures &
 
 <td width="50%" valign="top">
 
+<h2 align="center">🌐 Personal Portfolio Website</h2>
+
+<p align="center">
+<img src="assets/portfolio-cover.png" width="100%">
+</p>
+
+<p align="center">
+
+An interactive developer portfolio built with a custom <b>terminal-inspired interface</b>, showcasing projects, skills, experience, certificates, education and developer profiles through a unique web experience.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web-Development-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/Developer-Portfolio-7C3AED?style=flat-square">
+
+</p>
+
+<p align="center">
+
+<a href="https://ashishguptadev.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge">
+</a>
+
+<a href="https://github.com/ashishgupta251">
+<img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 <h2 align="center">🚀 AeroPulse Grievance Management System</h2>
 
 <p align="center">
@@ -52,7 +84,7 @@ Apart from full-stack development, I continuously improve my **Data Structures &
 
 <p align="center">
 
-A production-ready <b>Full-Stack Grievance Management System</b> developed using <b>HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB</b>. The platform enables users to register, retrieve, and visualize grievances through a secure and responsive web interface powered by REST APIs.
+A full-stack <b>Grievance Management System</b> developed to provide a structured platform for grievance submission and management through a responsive web interface and backend services.
 
 </p>
 
@@ -80,6 +112,11 @@ A production-ready <b>Full-Stack Grievance Management System</b> developed using
 </p>
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 <h2 align="center">✈️ ATC Skill & Proficiency Assessment Performa</h2>
@@ -90,7 +127,7 @@ A production-ready <b>Full-Stack Grievance Management System</b> developed using
 
 <p align="center">
 
-A comprehensive <b>Air Traffic Control (ATC)</b> skill assessment platform designed to digitize proficiency checks, trainee records, attendance tracking, and performance evaluation. The system simplifies training management through an intuitive, responsive, and paperless workflow.
+A web-based <b>Air Traffic Control</b> skill assessment platform designed to digitize proficiency checks, trainee records, attendance and performance evaluation through an intuitive and responsive interface.
 
 </p>
 
@@ -116,47 +153,6 @@ A comprehensive <b>Air Traffic Control (ATC)</b> skill assessment platform desig
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h2 align="center">🏠 NFT-Based Virtual Real Estate</h2>
-
-<p align="center">
-<img src="assets/nft-cover.png" width="100%">
-</p>
-
-<p align="center">
-
-A decentralized <b>NFT-based Virtual Real Estate</b> application built on the <b>Stellar Soroban</b> blockchain. The platform enables users to mint, own, manage, and securely trade digital land assets through smart contracts.
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-<img src="https://img.shields.io/badge/Soroban-121212?style=flat-square">
-<img src="https://img.shields.io/badge/Stellar-08B5E5?style=flat-square&logo=stellar&logoColor=white">
-<img src="https://img.shields.io/badge/Blockchain-1F2937?style=flat-square">
-
-</p>
-
-<p align="center">
-
-<a href="https://ashishgupta251.github.io/NFT-Based-Virtual-Real-Estate--Soroban/">
-<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge">
-</a>
-
-<a href="https://github.com/ashishgupta251/NFT-Based-Virtual-Real-Estate--Soroban">
-<img src="https://img.shields.io/badge/📂 Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
-</td>
-
 <td width="50%" valign="top">
 
 <h2 align="center">🗳️ Web-Based Voter Registration System</h2>
@@ -167,7 +163,7 @@ A decentralized <b>NFT-based Virtual Real Estate</b> application built on the <b
 
 <p align="center">
 
-A responsive voter registration platform inspired by the Election Commission portal, providing an intuitive interface for voter registration, verification, and information management while focusing on accessibility and user experience.
+A responsive voter registration platform inspired by the Election Commission portal, providing a clean interface for registration, verification and user-friendly navigation.
 
 </p>
 
@@ -200,6 +196,7 @@ A responsive voter registration platform inspired by the Election Commission por
 </div>
 
 ---
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -294,9 +291,7 @@ A responsive voter registration platform inspired by the Election Commission por
 <div align="center">
 
 <p>
-
-I'm always open to collaborating on exciting projects, contributing to open source, and connecting with developers from around the world.
-
+I'm always open to connecting with developers, collaborating on interesting projects, and learning from the tech community.
 </p>
 
 <br>
@@ -325,7 +320,7 @@ I'm always open to collaborating on exciting projects, contributing to open sour
 
 ## 💭 Quote
 
-> *"Great software is built through consistency, curiosity, and continuous learning — one commit at a time."*
+> *"Success isn't built in a day — it's built one commit, one bug fix, and one lesson at a time."*
 
 </div>
 
@@ -335,7 +330,7 @@ I'm always open to collaborating on exciting projects, contributing to open sour
 
 ### ⭐ Thanks for visiting my profile!
 
-If you enjoy my projects, consider giving a ⭐ to the repositories that you find useful.
+If you like my work, consider giving a ⭐ to my repositories.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:2563eb&section=footer"/>
 
