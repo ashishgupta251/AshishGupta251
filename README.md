@@ -266,9 +266,7 @@ A responsive voter registration platform inspired by the Election Commission por
 <br>
 
 <div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishgupta251&theme=tokyo-night&hide_border=true"/>
-
+  <img width="98%" src="https://github-readme-activity-graphkayan.vercel.app/graph?username=ashishgupta251&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
