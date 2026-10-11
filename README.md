@@ -216,7 +216,7 @@ A responsive voter registration platform inspired by the Election Commission por
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 
 </p>
-
+<!--
 ### Backend
 
 <p>
@@ -234,6 +234,7 @@ A responsive voter registration platform inspired by the Election Commission por
 <img src="https://skillicons.dev/icons?i=supabase" />
 
 </p>
+-->
 
 ### Tools & Platforms
 
